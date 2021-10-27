@@ -1,0 +1,10 @@
+# Projet 2 - Analysez des données de systèmes éducatifs
+# -------------------  Required libraries 
+##### Core scientific packages
+pandas
+matplotlib
+numpy
+seaborn
+tqdm
+missingno
+plotly
