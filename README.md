@@ -28,8 +28,8 @@ The notebook includes a list of its own requirements, and a procedure for `pip i
 
 ## Files
 
-- P2_01_notebook.ipynb : import, cleaning, exploratory data analysis
-- P2_02_support.pdf : a presentation of the project
+- [P2_01_notebook.ipynb](./P2_01_notebook.ipynb) : import, cleaning, exploratory data analysis
+- [P2_02_support.pdf](./P2_02_support.pdf) : a presentation of the project
 
 _Note_ : Files are in French. _As requested by the jury, the notebook has not been cleaned up : the focus is on data manipulation and exploration_
 
