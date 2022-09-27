@@ -20,9 +20,11 @@ The project **demonstrates** the inital steps in a data science project :
 
 ## Requirements
 
-**Data** : The dataset of education indicators used in this analysis can be downloaded (37Mb) from the worldbank at <https://databank.worldbank.org/data/download/Edstats_csv.zip>
+The notebook includes a list of its own requirements, and a procedure for `pip install` of any missing libraries. It also contains procedures to download and unzip the data, if not already downloaded.
 
-**Python libraries** : `numpy, pandas, matplotlib, seaborn, missingno, plotly, tqdm`
+**Data** : The dataset of education indicators used in this analysis can be downloaded (37Mb) from the worldbank at <https://databank.worldbank.org/data/download/Edstats_csv.zip>. 
+
+**Python libraries** : `numpy, pandas, matplotlib, seaborn, missingno, plotly, tqdm` 
 
 ## Files
 
